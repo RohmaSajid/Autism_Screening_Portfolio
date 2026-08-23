@@ -1,2 +1,2 @@
 # Autism_Screening_Portfolio
-This portfolio contains my Final Year Project presentation, IGNITE competition presentation, dataset details, and project code for autism screening.
+This portfolio contains my Project presentation and dataset details, IGNITE competition presentation and project code for autism screening.
